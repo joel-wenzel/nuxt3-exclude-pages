@@ -1,0 +1,3 @@
+pages/**/*.ts
+pages/**/components/*
+pages/**/composables/*
